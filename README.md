@@ -1,2 +1,2 @@
 # sss
-sound soul senses docker series 1
+Sound Soul Senses docker series 1
